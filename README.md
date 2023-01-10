@@ -17,7 +17,8 @@ QUPP는 기존 질의응답 서비스들의 타겟이 되지 못했던 이들을
 
 QUPP는 Question University Problem Platform의 약어로, 대학생들의 학업상 궁금증을 해소해주겠다는 의미를 담고 있습니다.
 
-[QUPP 소개 PDF 확인 가능](https://github.com/likelion-backendschool/QUPP/blob/main/QUPP.pdf)
+[QUPP 소개 PDF 확인 가능](https://github.com/seeunla/QUPP/blob/master/QUPP.pdf)
+
 
 ### 기존 서비스의 한계점
 - 연령층
