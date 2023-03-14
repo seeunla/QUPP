@@ -1,5 +1,12 @@
 # QUPP
 
+### 김세은 맡은 부분
+- Spring을 활용한 MVC 모델 구축
+- **Jenkins** 와 **NCloud**를 활용한 CI/CD 파이프라인 구축
+- **Google SMTP API** 적용을 통한 개발 일정 단축
+- **EC2 활용**을 통한 DB연동 구축
+- **Rest API**를 이용한 사용자 도메인의 회원가입, 로그인, 비밀번호 수정, **jwt** 구현 및 사용자 도메인의 닉네임 중복, 이메일 중복, 닉네임 수정 리팩토링
+
 ### 시연영상
 https://user-images.githubusercontent.com/107592967/211485482-b7218bd5-5764-4101-b0fd-70f2ed5689a6.mp4
 
