@@ -8,8 +8,8 @@
 - **Rest API**를 이용한 사용자 도메인의 회원가입, 로그인, 비밀번호 수정, **jwt** 구현 및 사용자 도메인의 닉네임 중복, 이메일 중복, 닉네임 수정 리팩토링
 - Git commit 규칙, 노션 페이지 진행 상황 캘린더, 주 1회 CS공부, 깃허브 풀 리퀘스트 규칙을 정립해 코드 리뷰 작성 등 적극적으로 커뮤니케이션하며 프로젝트 진행
   - 노션 진행 상황 캘린더 [`노션 페이지`](https://www.notion.so/328abb459b894647b1ad8cc35d7ad4da) 
-- 기존 프로젝트의 Pull Requests
-  - [QUPP.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec5beb23-0206-44ce-b5f8-273c6f667179/QUPP.pdf)
+- 기존 프로젝트의 Pull Requests 코드 리뷰 진행 과정
+  - [`노션 페이지`](https://seeunla.notion.site/Pull-Request-3051ab39780341868e1b6891931f32d9?pvs=4))
 ### 시연영상
 https://user-images.githubusercontent.com/107592967/211485482-b7218bd5-5764-4101-b0fd-70f2ed5689a6.mp4
 
