@@ -4,14 +4,12 @@
 - **Spring Security** 기반의 회원 도메인에 **MVC 패턴** 적용
 - **CI/CD** **자동 배포**를 위한 **docker + spring + mariadb + jenkins + ncloud** 기반의 인프라 구성
 - 팀내 인프라 구성, [배포 가이드](https://www.notion.so/613a77f4b7ee46578f1c8f96458d17ce)
-- **EC2 활용**을 통한 DB연동 구축
+- **EC2, NCP**으로 서버 구축 및 배포
 - **Rest API**를 이용한 사용자 도메인의 회원가입, 로그인, 비밀번호 수정, **jwt** 구현 및 사용자 도메인의 닉네임 중복, 이메일 중복, 닉네임 수정 리팩토링
-- Git 규칙 문서화 및 진행 상황 체크 담당
-- 팀 협업에 필요한 [`노션 페이지`](https://www.notion.so/328abb459b894647b1ad8cc35d7ad4da) 작성하여 프로젝트를 리딩
-- 깃허브 풀 리퀘스트 규칙을 도입하여 코드 리뷰 작성 및 개선점 커뮤니케이션을 적극적으로 추진
-    - 기존 프로젝트의 Pull Requests
-    
-    [QUPP.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec5beb23-0206-44ce-b5f8-273c6f667179/QUPP.pdf)
+- Git commit 규칙, 노션 페이지 진행 상황 캘린더, 주 1회 CS공부, 깃허브 풀 리퀘스트 규칙을 정립해 코드 리뷰 작성 등 적극적으로 커뮤니케이션하며 프로젝트 진행
+  - 노션 진행 상황 캘린더 [`노션 페이지`](https://www.notion.so/328abb459b894647b1ad8cc35d7ad4da) 
+- 기존 프로젝트의 Pull Requests
+  - [QUPP.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec5beb23-0206-44ce-b5f8-273c6f667179/QUPP.pdf)
 ### 시연영상
 https://user-images.githubusercontent.com/107592967/211485482-b7218bd5-5764-4101-b0fd-70f2ed5689a6.mp4
 
